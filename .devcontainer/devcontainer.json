@@ -1,4 +1,5 @@
 {
   "name": "Course 1",
-  "postAttachCommand": "code tests/example.test.ts"
+  "postAttachCommand": "code tests/example.test.ts",
+  "postAttachCommand": "npx playwright install --with-deps chromium firefox webkit"
 }
