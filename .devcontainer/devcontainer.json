@@ -1,0 +1,4 @@
+{
+  "name": "Course 1",
+  "postAttachCommand": "code tests/example.test.ts"
+}
